@@ -4,4 +4,5 @@ jupyterlab>=3.0.0
 numpy
 scipy
 ipywidgets
-pydub<0.25
+pydub
+pyaudioop
