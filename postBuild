@@ -1,3 +1,4 @@
 #!/bin/bash
+pip install audioop-lts
 jupyter labextension install @jupyter-widgets/jupyterlab-manager jupyter-matplotlib --no-build
 jupyter lab build --minimize=False
