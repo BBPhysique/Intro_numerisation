@@ -8,7 +8,7 @@ dependencies:
   - ipympl>=0.9.0
   - jupyterlab>=3.0.0
   - pydub
-  - pyaudioop
+  - pip
   - numpy
   - scipy
   - ipywidgets
